@@ -110,7 +110,6 @@ The model demonstrates:
 
 
 ---
-### 📈 Performance Metrics
 ## 📈 Performance Metrics
 
 ![mAP50](https://img.shields.io/badge/mAP50-0.62-brightgreen)
